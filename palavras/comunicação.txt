@@ -1,0 +1,17 @@
+Livros
+Rádio
+Voz
+Fax
+Internet
+Televisão
+Revistas
+Jornal
+Telégrafo
+Correio
+Telefone
+Carta
+Torpedo
+Ligação
+Zap
+Videochamada
+Email
